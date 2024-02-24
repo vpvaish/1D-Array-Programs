@@ -9,9 +9,22 @@
   It includes :
 </h2>
 <b>
-<li>
-    Array size by User 
+  <ol>
+    Creation Of An Array 
+  </ol>
+  <li>
+    Declaration 
   </li>
+  <li>
+    Creation 
+  </li>
+  <li>
+    Implementation
+  </li>
+  
+<ol>
+    Array size by User 
+  </ol>
   <li>
     Array Elements by User According to size they given
   </li>
