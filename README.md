@@ -8,6 +8,8 @@
 <h2>
   It includes :
 </h2>
+<b>
+<li>
     Array size by User 
   </li>
   <li>
@@ -20,3 +22,4 @@
     Reverse Method
   </li>
 </li>
+</b>
