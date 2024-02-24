@@ -9,9 +9,9 @@
   It includes :
 </h2>
 <b>
-  <ol>
+  <li>
     Creation Of An Array 
-  </ol>
+  </li>
   <li>
     Declaration 
   </li>
@@ -22,9 +22,9 @@
     Implementation
   </li>
   
-<ol>
+<li>
     Array size by User 
-  </ol>
+  </li>
   <li>
     Array Elements by User According to size they given
   </li>
