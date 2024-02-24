@@ -21,5 +21,11 @@
   <li>
     Reverse Method
   </li>
+  <li>
+    Sum Of All Array Elements 
+  </li>
+  <li>
+    Duplicate Number/Element
+  </li>
 </li>
 </b>
